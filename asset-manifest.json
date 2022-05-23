@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ZameendarApp/static/css/main.931c9f75.css",
+    "main.js": "/ZameendarApp/static/js/main.c0087cb5.js",
+    "static/media/background.png": "/ZameendarApp/static/media/background.572bb00bb5d6f54c05c3.png",
+    "static/media/logo.jpeg": "/ZameendarApp/static/media/logo.d23f82ec8aeda694152b.jpeg",
+    "index.html": "/ZameendarApp/index.html",
+    "main.931c9f75.css.map": "/ZameendarApp/static/css/main.931c9f75.css.map",
+    "main.c0087cb5.js.map": "/ZameendarApp/static/js/main.c0087cb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.931c9f75.css",
+    "static/js/main.c0087cb5.js"
+  ]
+}
